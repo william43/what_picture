@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatPicture</string>
+
+    <string name="button_text">Split Image</string>
+
+    <!-- String values for the contents of the
+     sliding drawer which represents how many chunks the image should split -->
+    <string name="three">3*3</string>
+    <string name="four">4*4</string>
+    <string name="five">5*5</string>
+</resources>

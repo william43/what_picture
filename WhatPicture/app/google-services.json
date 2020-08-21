@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150850168954",
+    "firebase_url": "https://whatpicture-cee61.firebaseio.com",
+    "project_id": "whatpicture-cee61",
+    "storage_bucket": "whatpicture-cee61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150850168954:android:c6859003447ce2e7",
+        "android_client_info": {
+          "package_name": "com.example.willaboy.whatpicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150850168954-aaruasrhaj0uhfhfmc32dvgdli140u89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.willaboy.whatpicture",
+            "certificate_hash": "52d1ffa6b3a7f1af73868b7037d2d18d317154c4"
+          }
+        },
+        {
+          "client_id": "150850168954-aoejkjqu0dkh5tnr9l60v1crk3lrb1mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Y6eyQfxJHsQ-4-zBs_9wKFoCSs_cFlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150850168954-aoejkjqu0dkh5tnr9l60v1crk3lrb1mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
